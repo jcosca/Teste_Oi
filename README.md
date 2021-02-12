@@ -9,12 +9,12 @@ Este projeto é uma aplicação simples para um teste, feito com base no framewo
 
 ## Pré-requisitos
 
-- [MySql - V10.4.11-MariaDB].
-- [PHP - V7.4.1].
+- MySql - V10.4.11-MariaDB.
+- PHP - V7.4.1.
 
 ## Rodando aplicação
 
 Após clonar o repositório, rode os seguintes comandos:
 
-- [npm install].
-- [php artisan serve].
+- npm install.
+- php artisan serve.
